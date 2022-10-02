@@ -1,0 +1,11 @@
+.App {
+  background-color: lightgrey;
+}
+.profile_image {
+  height: 100px;
+  width: 100px;
+}
+
+ul {
+  font-size: small;
+}
